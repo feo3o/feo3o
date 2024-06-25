@@ -11,7 +11,7 @@ Front-End
 - PHP
 
 Banco de Dados:
-- MySql
+- MySQL
 
 
 
