@@ -2,7 +2,7 @@
 Meu nome é Felipe, sou um estudande de Análise e Desenvolvimento de Sistemas apaixonado por programação e por aprender.
 ### Habilidades
 Back-End
-- Java 8 e 17 (Principal)
+- Java 8 e 17 / SpringBoot
 - Python
 
 Front-End
