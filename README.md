@@ -1,16 +1,16 @@
-## Introdução
+### Introdução
 Meu nome é Felipe, sou um estudande de Análise e Desenvolvimento de Sistemas apaixonado por programação e por aprender.
-## Habilidades
-Meu maior foco de aprendizado é em back-end.
+### Habilidades
+Back-End
 - Java 8 e 17 (Principal)
 - Python
 
-Tenho interesse e alguns conhecimentos em front-end.
+Front-End
 - HTML, CSS
 - Javascript
 - PHP
 
-Principal Banco de Dados:
+Banco de Dados:
 - MySql
 
 
