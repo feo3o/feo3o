@@ -1,5 +1,5 @@
 ### Introdução
-Meu nome é Felipe, sou um estudande de Análise e Desenvolvimento de Sistemas apaixonado por programação e por aprender.
+Meu nome é Felipe, tenho 22 anos e sou um estudande de Análise e Desenvolvimento de Sistemas.
 ### Habilidades
 Back-End
 - Java 8 e 17 / SpringBoot
