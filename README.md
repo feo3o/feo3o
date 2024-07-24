@@ -4,6 +4,7 @@ Meu nome é Felipe, tenho 22 anos e sou um estudande de Análise e Desenvolvimen
 Back-End
 - Java 8 e 17 / SpringBoot
 - Python
+- C/C++
 
 Front-End
 - HTML, CSS
