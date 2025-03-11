@@ -14,7 +14,7 @@ Front-End
 Banco de Dados:
 - MySQL
 
-
+*Muitos projetos foram apagados, estou melhorando alguns deles e outros não fazem mais sentido estar aqui.
 
 
 
